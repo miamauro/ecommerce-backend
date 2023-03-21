@@ -13,4 +13,4 @@ npm run watch
 ```
 
 The following link leads to a video demonstrating the functionality of the application.  
-[Demo Video]()
+[Demo Video](https://drive.google.com/file/d/1MB572wAj-3GH9TBYvHjvgMvlBzNYTyKa/view)
